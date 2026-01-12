@@ -3,13 +3,13 @@
 Tenho 27 anos, sou apaixonado por tecnologia e arte. Bem-vindo ao meu espaço de criação!
 
 ## 💻 Sobre mim
-- 🎓 Estudante de **Desenvolvimento Web** e **Back-end** na Alura.
+- 🎓 Estudante de **Full-Stack Web Development** na Alura.
 - 🎮 Desenvolvedor de jogos por hobby.
 - 🎨 Artista e Desenhista.
 - 🌟 Influenciador Digital e portador de Miopatia Mitocondrial TK2D.
 
 ## 🚀 O que estou estudando
-Atualmente estou focado em aprofundar meus conhecimentos em Back-end e tecnologias web.
+Atualmente estou focado em aprofundar meus conhecimentos em Full-Stack Web Development, desenvolvendo aplicações web robustas e eficientes.
 
 ---
 Seja muito bem-vindo(a) ao meu perfil! Espero que goste dos meus projetos. 
@@ -37,6 +37,9 @@ Seja muito bem-vindo(a) ao meu perfil! Espero que goste dos meus projetos.
     </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
     </a>
 </p>
 
